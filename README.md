@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Yanuar!
 
-<!--
-**khusaery01/khusaery01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Informatics Engineering Student | 💻 Web Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student who is interested in web development,
+UI/UX design, and building useful digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies and turning ideas into real projects.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Informatics Engineering Student
+- 💻 Interested in Web Development
+- 🎨 Interested in UI/UX Design
+- 🌱 Currently improving my development skills
+- 📍 Indonesia
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • Flutter
+
+### Backend
+PHP • Laravel
+
+### Tools
+Git • GitHub • VS Code • Figma
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Dimves E-Commerce
+E-commerce web application built as a college/project application.
+
+### 🌐 Personal Portfolio
+My personal portfolio showcasing my projects, skills, and development journey.
+
+---
+
+## 📊 GitHub
+
+Thanks for visiting my profile! 🚀
+
+Feel free to explore my repositories and projects.
