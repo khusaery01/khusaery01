@@ -107,3 +107,25 @@ My personal portfolio showcasing my projects, skills, and development journey.
 <img src="https://streak-stats.demolab.com?user=khusaery01&theme=default&hide_border=true">
 
 </div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+🌐 **Portfolio**  
+[Visit My Portfolio](https://github.com/khusaery01/portfolio)
+
+💻 **GitHub**  
+[github.com/khusaery01](https://github.com/khusaery01)
+
+📍 Indonesia
+
+<br>
+
+### Thanks for visiting my profile! 👋
+
+⭐ Feel free to explore my repositories.
+
+</div>
