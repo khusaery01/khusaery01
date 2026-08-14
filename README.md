@@ -1,6 +1,19 @@
-# 👋 Hi, I'm Yanuar!
+<div align="center">
 
-### 🎓 Informatics Engineering Student | 💻 Web Developer
+# 👋 Hi, I'm Yanuar
+
+### 🎓 Informatics Engineering Student · 💻 Web Developer
+
+Building ideas into digital experiences.
+
+</div>
+
+<div align="center">
+
+[🌐 Portfolio](https://github.com/khusaery01/portfolio) •
+[💼 GitHub](https://github.com/khusaery01)
+
+</div>
 
 I'm a Computer Science student who is interested in web development,
 UI/UX design, and building useful digital products.
