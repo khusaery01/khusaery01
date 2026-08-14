@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.png" width="100%" alt="Yanuar Portfolio">
+
 # 👋 Hi, I'm Yanuar
 
 ### 🎓 Informatics Engineering Student · 💻 Web Developer
@@ -48,9 +50,11 @@ Git • GitHub • VS Code • Figma
 ## 📌 Featured Projects
 
 ### 🛒 Dimves E-Commerce
+
 E-commerce web application built as a college/project application.
 
 ### 🌐 Personal Portfolio
+
 My personal portfolio showcasing my projects, skills, and development journey.
 
 ---
